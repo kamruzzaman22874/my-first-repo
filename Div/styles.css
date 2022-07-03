@@ -4,7 +4,7 @@
     width: 28%;
     height: 300px;
     float: left;
-    margin-top: 300px;
+    margin-top: 200px;
     text-align: center;
     border-radius: 10px;
     box-shadow: 10px 10px rgb(98, 81, 184);
@@ -17,20 +17,49 @@
     height: 300px;
     margin-left: 440px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 1px;
     border-radius: 10px;
-    border: 2px dashed black;
-    font-size: 20px;
+    border: 2px d black;
+    font-size: 12px;
+    box-shadow: 10px 10px rgb(60, 53, 92);
+    margin-top: 0px;
     
 }
 .right{
-    background: red;
+    background: blue;
     width: 28%;
     height: 300px;
     float: right;
-    margin-top: 300px;
+    margin-top: 200px;
+    margin-right: 10px;
     text-align: center;
     border-radius: 10px;
     border: 3px solid greenyellow;
     font-size: 25px;
+    box-shadow: 10px 10px rgb(63, 62, 66);
+    position: relative;
+}
+#design{
+    background: darkcyan;
+    text-align: center;
+}
+
+.left ul li:hover{
+    color: red;
+    
+}
+.middle p{
+    font-size: 20px;
+}
+.left h1{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.image img{
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+    margin-top: 5px;
 }
