@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background: greenyellow;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    border: 3px dashed black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 100px;
+}
+.container{
+    background:burlywood;
+    width: 300px;
+    height: 400px;
+    margin: 100px 500px;
+    color: white;
+    border-radius: 10px;
+}
+.form h1{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    padding-top: 10px;
+}
+.input{
+    margin-left: 80px;
+    margin-top: 30px;
+    position: relative;
+}
+#sub{
+   
+    margin-left: 30px;
+    padding-left: 5px;
+    
+}
+#my{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#you{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.input label{
+    font-size: 20px;
+    color: navy;
+    font-style: italic;
+}
+#nano{
+    margin-left: 0px;   
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+}
+#none{
+    color: brown;
+}
+#isr{
+    padding-top: 10px;
+}
